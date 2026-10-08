@@ -151,7 +151,7 @@ I enjoy taking ideas from concept to implementation: designing clean user experi
 I'm interested in meaningful software projects, full-stack opportunities, cybersecurity, infrastructure, AI products, and collaborations that create practical impact.
 
 - **GitHub:** [@NiltonNovele](https://github.com/NiltonNovele)
-- **Website:** [synctechx.com](https://synctechx.com)
+- **Website:** [NiltonNovele](https://niltonnovele.synctechx.com)
 - **Email:** [hello@synctechx.com](mailto:hello@synctechx.com)
 - **Location:** Maputo, Mozambique
 
